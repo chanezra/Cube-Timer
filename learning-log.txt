@@ -1,4 +1,0 @@
-Wednesday 4, 2022
-    Created a file and started the JavaScript tutorial on w3schools.com
-    touched up on HTML and CSS to help with the process
-    got to 'JS Where to' 
