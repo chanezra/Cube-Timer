@@ -1,0 +1,15 @@
+Wednesday 4, 2022
+    Created a file and started the JavaScript tutorial on w3schools.com
+    touched up on HTML and CSS to help with the process
+    got to 'JS Where to' 
+
+Friday 6, 2022
+    started on JS Where To
+    started on JS Output
+
+Tuesday 10, 2022
+    HTML review so I can make the timer, and then implement the JavaScript part
+    https://www.w3schools.com/html/html_basic.asp
+    https://www.w3schools.com/html/html_lists.asp
+    file: HTMLbasics.htm
+    messed around with making a favicon https://www.favicon.cc/
