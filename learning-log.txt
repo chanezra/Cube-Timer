@@ -13,3 +13,16 @@ Tuesday 10, 2022
     https://www.w3schools.com/html/html_lists.asp
     file: HTMLbasics.htm
     messed around with making a favicon https://www.favicon.cc/
+
+Thursday 12, 2022
+    My brain's kind of slow today, I just took the AP world test, 
+    so I'm not sure much will happen today, I'll definetely be 
+    working on this at home a little later on.
+
+    Thinking about adding CSS to my webpage
+    CSS Introduction
+    CSS Syntax
+    CSS Backgrounds
+    CSS How To
+    CSS Colors
+    CSS Box Model
