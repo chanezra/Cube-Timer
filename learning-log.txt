@@ -11,8 +11,8 @@ Tuesday 10, 2022
     HTML review so I can make the timer, and then implement the JavaScript part
     https://www.w3schools.com/html/html_basic.asp
     https://www.w3schools.com/html/html_lists.asp
-    file: HTMLbasics.htm
-    messed around with making a favicon https://www.favicon.cc/
+    file added: HTMLbasics.htm
+    messed around with making a favicon https://www.favicon.cc/ will probably create a new one later, this one's ugly
 
 Thursday 12, 2022
     My brain's kind of slow today, I just took the AP world test, 
@@ -26,3 +26,10 @@ Thursday 12, 2022
     CSS How To
     CSS Colors
     CSS Box Model
+    file added: cssBasics.css
+
+Monday 16, 2022
+    Took the Exam
+    JavaScript Timing Events
+        Reading, and trying to comprehend how this works, hopefully will be able to implement it a little bit today
+    Looked at the example timer again to see what I kind of want to create.
