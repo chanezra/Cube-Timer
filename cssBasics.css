@@ -1,24 +1,23 @@
 h1 {
-    text-align: center;
     background-color: tomato;
-    margin: 10px;
-    margin-bottom: 30px;
+    margin: 5px;
+    margin-bottom: 20px;
+    display: flex;
 }
 
 p {
     float: left;
-    text-align: center;
     background-color: tomato;
     margin: 10px;
     margin-bottom: 30px;
 }
 
 nav {
-    text-align: left;
-    font-size: larger;
+    font-size: x-large;
     background-color: rgba(57, 114, 168, 0.733);
-    background-size: ;
+    background-size: 20px;
     color: white;
+    display: flex;
 }
 
 body {
