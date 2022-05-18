@@ -33,3 +33,9 @@ Monday 16, 2022
     JavaScript Timing Events
         Reading, and trying to comprehend how this works, hopefully will be able to implement it a little bit today
     Looked at the example timer again to see what I kind of want to create.
+
+wednesday 18, 2022
+    Started Codecademy JavaScript
+    finished the Introduction
+    started the Variables portion
+    7/10  lessons on variables
